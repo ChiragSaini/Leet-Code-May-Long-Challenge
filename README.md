@@ -1,2 +1,2 @@
-# Leet-Code-May-Long-Challenge
-My solutions to Leet code may challenge
+# Leet-Code-May-Challenge
+Python Solutions to Leet code May Challenge.
