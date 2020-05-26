@@ -28,4 +28,5 @@ Python Solutions to Leet code May Challenge.
     <li>Day23: Interval List Intersections</li>
     <li>Day24: Construct Binary Tree from Preorder Traversal</li>
     <li>Day25: Uncrossed Lines</li>
+    <li>Day26: Contagious Array</li>
 </ul>
