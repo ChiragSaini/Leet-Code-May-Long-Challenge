@@ -1,3 +1,4 @@
+from collections import defaultdict
 class Solution:
     def dfs(self, start):
         if self.found_loop == 1: return        #early stop if we found odd cycle
