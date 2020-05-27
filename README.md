@@ -29,4 +29,5 @@ Python Solutions to Leet code May Challenge.
     <li>Day24: Construct Binary Tree from Preorder Traversal</li>
     <li>Day25: Uncrossed Lines</li>
     <li>Day26: Contagious Array</li>
+    <li>Day27: Possible Bipartition</li>
 </ul>
