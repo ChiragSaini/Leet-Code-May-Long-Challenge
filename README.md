@@ -30,4 +30,5 @@ Python Solutions to Leet code May Challenge.
     <li>Day25: Uncrossed Lines</li>
     <li>Day26: Contagious Array</li>
     <li>Day27: Possible Bipartition</li>
+    <li>Day28: Counting Bits</li>
 </ul>
