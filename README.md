@@ -31,4 +31,5 @@ Python Solutions to Leet code May Challenge.
     <li>Day26: Contagious Array</li>
     <li>Day27: Possible Bipartition</li>
     <li>Day28: Counting Bits</li>
+    <li>Day29: Course Schedule</li>
 </ul>
