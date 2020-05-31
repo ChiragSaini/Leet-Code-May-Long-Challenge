@@ -33,6 +33,7 @@ Python Solutions to Leet code May Challenge.
     <li>Day28: Counting Bits</li>
     <li>Day29: Course Schedule</li>
     <li>Day30: K Closest points to Origin</li>
+    <li>Day31: Edit Distance</li>
 </ul>
 <h2>And that's a wrap for May LeetCode challenge
 </h2>
